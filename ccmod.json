@@ -12,5 +12,6 @@
   	"authors": "QuieType",
 	"dependencies": {
 		"xenons-playable-classes": ">=3.6.2"
-	}
+	},
+	"prestart": "prestart.js"
 }

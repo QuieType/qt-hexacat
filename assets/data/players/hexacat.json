@@ -1,6 +1,6 @@
 {
   "DOCTYPE": "PLAYER",
-  "character": "hexacast.hexacast-qt",
+  "character": "hexacast.hexacat",
   "sheet": "npc.hexacast1",
   "class": "HEXACAST",
   "stats": {
