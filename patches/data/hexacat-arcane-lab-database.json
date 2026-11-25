@@ -1,3 +1,23 @@
 {
-
+  "qtHexacastCustom1NeutralThrow1A": {
+    "list": [
+      {
+        "replaceTo": "QT_CUSTOM1_THROW_SPECIAL1_A",
+        "actionCheckKey": "THROW_SPECIAL1"
+      }
+    ],
+    "element": "NEUTRAL",
+    "activeCondition": "/hexacast.*/i.test(player.entity.name)",
+    "name": {
+      "en_US": "\\i[class-hexa] Adaptive Magic Missile"
+    },
+    "description": {
+      "en_US": "Hit an enemy to inflict them with a delayed explosion that changes depending on what element you switch to."
+    },
+    "icon": {
+      "src": "media/gui/custom-skills/hexacast-bonus-skills.png",
+      "offX": 0,
+      "offY": 0
+    }
+  }
 }
