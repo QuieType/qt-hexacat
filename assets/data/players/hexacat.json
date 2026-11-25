@@ -63407,10 +63407,10 @@
     "NEUTRAL": {
       "THROW_SPECIAL1_A": {
         "name": {
-          "en_US": "Magic Missile"
+          "en_US": "Adaptive Magic Missile"
         },
         "description": {
-          "en_US": "Hit an enemy to inflict them with a lingering explosion."
+          "en_US": "Hit an enemy to inflict them with a delayed explosion that changes depending on what element you switch to."
         },
         "dmgType": "RANGED",
         "stunType": "",
