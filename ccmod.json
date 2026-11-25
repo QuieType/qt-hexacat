@@ -1,0 +1,17 @@
+{
+	"id": "qt-hexacast-ext",
+	"version": "0.0.1",
+	"title": {
+		"en_US": "Hexacast Additions"
+	},
+	"description": {
+		"en_US": "[WIP] Custom Skills for the XPC hexacast."
+    },
+	"repository": "https://github.com/QuieType/qt-hexacast-ext",
+  	"tags": ["puzzle"],
+  	"authors": "QuieType",
+  	"icons": {
+  	  "24": "icon24.png"
+ 	},
+	"prestart": "_prestart.js"
+}
