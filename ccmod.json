@@ -9,5 +9,8 @@
     },
 	"repository": "https://github.com/QuieType/qt-hexacast-ext",
   	"tags": ["player character", "combat arts"],
-  	"authors": "QuieType"
+  	"authors": "QuieType",
+	"dependencies": {
+		"xenons-playable-classes": ">=3.6.2"
+	}
 }
