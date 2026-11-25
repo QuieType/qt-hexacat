@@ -11,7 +11,8 @@
   	"tags": ["player character", "combat arts"],
   	"authors": "QuieType",
 	"dependencies": {
-		"xenons-playable-classes": ">=3.6.2"
+		"xenons-playable-classes": ">=3.6.2",
+		"arcane-lab": ">=0.1.8"
 	},
 	"prestart": "prestart.js"
 }
