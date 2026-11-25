@@ -1,13 +1,13 @@
 {
-	"id": "qt-hexacast-ext",
-	"version": "0.0.1",
+	"id": "qt-hexacat",
+	"version": "1.1.0",
 	"title": {
 		"en_US": "Hexacast Additions"
 	},
 	"description": {
-		"en_US": "[WIP] Custom Skills for the XPC hexacast."
+		"en_US": "A custom skill for the XPC Hexacast."
     },
-	"repository": "https://github.com/QuieType/qt-hexacast-ext",
+	"repository": "https://github.com/QuieType/qt-hexacat",
   	"tags": ["player character", "combat arts"],
   	"authors": "QuieType",
 	"dependencies": {
