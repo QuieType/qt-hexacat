@@ -8,10 +8,6 @@
 		"en_US": "[WIP] Custom Skills for the XPC hexacast."
     },
 	"repository": "https://github.com/QuieType/qt-hexacast-ext",
-  	"tags": ["puzzle"],
-  	"authors": "QuieType",
-  	"icons": {
-  	  "24": "icon24.png"
- 	},
-	"prestart": "_prestart.js"
+  	"tags": ["player character", "combat arts"],
+  	"authors": "QuieType"
 }
