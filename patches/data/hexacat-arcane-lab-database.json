@@ -7,7 +7,7 @@
       }
     ],
     "element": "NEUTRAL",
-    "activeCondition": "/hexacast.*/i.test(player.entity.name)",
+    "activeCondition": "player.entity.name == 'Hexacast1' || player.entity.name == 'Hexacast2' || player.entity.name == 'hexacast-lea'",
     "name": {
       "en_US": "\\i[class-hexa] Adaptive Magic Missile"
     },
