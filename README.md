@@ -1,0 +1,1 @@
+Adds a new custom art to the XPC Hexacast based on Magic Missile called Adaptive Magic Missile, which changes it's effect based on the element the player is in when it explodes. The explosion types are the same as Tronny's elemental versions of Magic Missile.
